@@ -4,7 +4,6 @@ A small Mac app for watching a YI Dome Camera 1080p (YHS-2016) on your home netw
 
 - **Setup guide:** [SETUP.md](SETUP.md): preparing the SD card, installing yi-hack-v5 on the camera, and connecting.
 - **App source:** `YiCamera/Sources` (Swift, AppKit). Build with `YiCamera/build.sh`; it needs only Apple's Command Line Tools.
-- **Ready-built app:** download `Yi-Camera.zip` from the [Releases](../../releases) page.
 
 ## Third-party firmware
 
